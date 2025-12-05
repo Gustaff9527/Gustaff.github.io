@@ -1,0 +1,7 @@
+baseURL = "https://你的用户名.github.io/"
+languageCode = "zh-cn"
+title = "我的学习日志"
+theme = "ananke"  # 和你选择的主题名一致
+
+[params]
+  description = "记录我的每日学习历程"
